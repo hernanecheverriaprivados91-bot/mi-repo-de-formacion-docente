@@ -2,3 +2,6 @@
 
 ## Esto es un poco de mi autobiografia
 Soy un especialista en desarrollo de software desde hace ya 8 años, me gusta mucho programar y crear cosas nuevas.
+
+## ¿Qué es Git?
+Git es un sistema de control de versiones distribuido, lo que significa que permite rastrear los cambios en el código fuente y colaborar con otros desarrolladores de manera eficiente.
