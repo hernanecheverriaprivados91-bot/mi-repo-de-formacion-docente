@@ -5,3 +5,8 @@ Soy un especialista en desarrollo de software desde hace ya 8 años, me gusta mu
 
 ## ¿Qué es Git?
 Git es un sistema de control de versiones distribuido, lo que significa que permite rastrear los cambios en el código fuente y colaborar con otros desarrolladores de manera eficiente.
+
+## Un poco de mis pasatiempos
+- Me gusta mucho jugar videojuegos, 
+- ver series y películas,  
+- pasar tiempo con mi familia.
