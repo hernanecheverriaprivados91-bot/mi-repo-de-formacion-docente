@@ -10,3 +10,11 @@ Git es un sistema de control de versiones distribuido, lo que significa que perm
 - Me gusta mucho jugar videojuegos, 
 - ver series y películas,  
 - pasar tiempo con mi familia.
+
+## Tareas que he realizado en la formacion
+- Tareas sobre IA
+- Tareas sobre Git
+- Tareas sobre n8n
+- Tareas sobre Python
+- Tareas sobre bases de datos
+- Tareas sobre 
